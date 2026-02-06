@@ -3,6 +3,13 @@
 A professional, full-stack Task Management application built with **React**, **TailwindCSS**, **Node.js**, **Express**, and **SQLite**.
 Designed to demonstrate modern web development practices including RESTful API design, state management, and responsive UI.
 
+## Screenshots
+![Task Manager Interface](screenshot1.png)
+*Main Interface with Todos*
+
+![Task List](screenshot2.png)
+*Filtered view of tasks*
+
 ## Features
 - **Create, Read, Update, Delete** todos.
 - **Filter** by status (All, Active, Completed).
